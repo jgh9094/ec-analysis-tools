@@ -7,6 +7,7 @@ Below are some diagnostic/benchmark problem sets and fitness landscape metrics t
 
 ### Problem Sets
 
+- Problem Characteristics Diagnostics 
 - NK Landscapes (and variants)
 - Program Synthesis Benchmark Suite
 - Function Optimization Problems (GECCO Niching Competions)
